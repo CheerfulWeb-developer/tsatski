@@ -1,4 +1,157 @@
+@font-face {
+    font-family: Deutsch Gothic ;
+    src: url(/tsatski2/fonts/Deutsch\ Gothic.ttf);
+}
+
+@font-face {
+    font-family: Muller;
+    src: url(/tsatski2/fonts/MullerHairline.ttf);
+    
+}
 
 .page{
-    background-color: #212121;
+     background-color: #212121;
+}
+
+.title {
+    background: linear-gradient(90deg, #2e2e2e 5%, #FFFFFF 48% 70%, #2e2e2e);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    font-size: 110px;
+    font-family: Deutsch Gothic;
+    font-weight: 400;
+    padding-top: 59px;
+    text-align: center;
+    
+}
+.container1 {
+    padding-top: 90px;
+    padding-left: 130px;
+}
+.column1 {
+    display: flex;
+}
+.describing {
+    
+}
+.text1 {
+    color: #D7D8DA;
+    font: sans-serif;
+    font-family: Muller;
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 51px;
+    max-width: 450px;
+    text-transform: uppercase;
+    
+}
+.buttom1 {
+    box-sizing: border-box;
+    color: #FFFFFF;
+    font-family: Muller;
+    font-size: 16px;
+    font-weight: 700;
+    padding-top: 76px;
+}
+.picscolumn1 {
+}
+.pic1 {
+}
+.jewname {
+}
+.cost {
+}
+.pic2 {
+}
+.column2 {
+}
+.pic3 {
+}
+.pic4 {
+}
+.pic5 {
+}
+.pic6 {
+}
+.text2 {
+}
+.container2 {
+}
+.column3 {
+}
+.text3 {
+}
+.column4 {
+}
+.ster1 {
+}
+.ster2 {
+}
+.ster3 {
+}
+.column5 {
+}
+.pic7 {
+}
+.container3 {
+}
+.column6 {
+}
+.column7 {
+}
+.faq {
+}
+.qu1 {
+}
+.qu2 {
+}
+.qu3 {
+}
+.qu4 {
+}
+.qu5 {
+}
+.qu6 {
+}
+.qu7 {
+}
+.container4 {
+}
+.column8 {
+}
+.insta {
+}
+.buttom2 {
+}
+.column9 {
+}
+.pic8 {
+}
+.teg {
+}
+.pic9 {
+}
+.pic10 {
+}
+.column10 {
+}
+.pic11 {
+}
+.pic12 {
+}
+.pic13 {
+}
+.bottom {
+}
+.column11 {
+}
+.icon1 {
+}
+.column12 {
+}
+.text5 {
+}
+.column13 {
+}
+.column14 {
 }
